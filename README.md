@@ -69,9 +69,8 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 
 ## Built With
 
-- [Bootstrap](http://www.dropwizard.io/1.0.2/docs/) - The CSS framework
-- [React](https://reactjs.org/) - JavaScript library
 - [Node](https://nodejs.org/en/) - JavaScript runtime environment
+- [MongoDB](https://www.mongodb.com/) - NoSQL database
 
 ## Authors
 
@@ -80,7 +79,3 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
-## Acknowledgments
-
-- [Hugo Giraudel](https://hugogiraudel.com/) - Prefix Mixin in Sass
